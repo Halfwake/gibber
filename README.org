@@ -1,6 +1,6 @@
 * What is gibber ?
 
-It lets you generate semi sensible text with a markov chain. It's easy, add it to your path, point it at a file, specify how much text you want, and you've got gibberish.
+It lets you generate semi sensible text with a markov chain. It's easy, add it to your path, point it at a file, specify how much text you want, and you've got gibberish. Note that the file isn't where the gibberish is written. The gibberish is written to stdout. The file is the source text that the gibberish is based on.
 
 * Usage
 
