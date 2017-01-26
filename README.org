@@ -53,6 +53,10 @@ By default, gibber will output words seperated by space characters. You can gene
 $ ./gibber --file gibber --words 100 --seperator ":^)"
 +=:^)help:^)=:^)group:^)=:^)License:^)self.stochastic_matrix[first][second]:^)for:^)generated:^)by:^)=:^)terms:^)of:^)':^)',:^)help:^)=:^)Public:^)License:^)text:^)##:^)of:^)new:^)''':^)generate.':^)):^)'The:^)to:^)type:^)=:^)based:^)on:^)the:^)import:^)##:^)a:^)itertools:^)import:^)distributed:^)in:^)=:^)file:^)self.generate_next_word(first):^)words.append(second):^)first:^)is:^)gibberish:^)of:^)markov:^)import:^)of:^)args.seperator.join(:^)__name__:^)==:^)'__main__'::^)##:^)for:^)generate_words(self,:^)length)::^)'Returns:^)a:^)parser.add_mutually_exclusive_group(required:^)=:^)the:^)markov.generate_words(args.bytes):^))[:args.bytes]:^)#TODO!:^)This:^)words.append(second):^)first:^)in:^)':^)',:^)help:^)=:^)):^)=:^)your:^)option):^)any:^)text:^)'Returns:^)a:^)True):^)group.add_argument(:^)be:^)::^)that:^)it:^)def:^)with.'):^)group:^)=:^)generate_next_word(self,:^)first)::^)'Pick:^)a:^)):^)'--file',:^)required:^)=
 
+#+END_SRC
+
+#+BEGIN_SRC shell
+
 ## Words seperated by newline.
 $ ./gibber --file gibber --words 100 --seperator "
 > "
