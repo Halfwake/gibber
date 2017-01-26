@@ -67,7 +67,10 @@ class MarkovChainGenerator(object):
 if __name__ == '__main__':
     ## Code for setting up the argument parsing.
     parser = argparse.ArgumentParser(
-        description = 'Use any file of text to generate gibberish with.'
+        description = '''This program uses text files to generate gibberish.
+Copyright (C) 2017  Andrew "Drew" Dudash.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.'''
     )
     parser.add_argument(
         '--file',
