@@ -1,6 +1,6 @@
 * What is gibber ?
 
-It lets you generate semi sensible text with a markov chain. It's easy, add it to your path, point it at a file, specify how much text you want, and you're could be description = first, second file This bytes to in izip, islice class MarkovChainGenerator(object): 'Generates chains of first, second it in [first] for = #TODO! This WITHOUT ANY WARRANTY; wit. free software: you can redistribute it self.stochastic_matrix = if #!/usr/bin/env python ''' generator from previous one.' n random.choice(self.source) for markov.generate_words(args.words) ) on the the the markov.generate_words(args.words) ) = warranty of of to of return word based on the = Public License accum one.' n The actual main body is later version. ## izip(source, islice(source, 1, None, None)):
+It lets you generate semi sensible text with a markov chain. It's easy, add it to your path, point it at a file, specify how much text you want, and you've got gibberish.
 
 * Usage
 
